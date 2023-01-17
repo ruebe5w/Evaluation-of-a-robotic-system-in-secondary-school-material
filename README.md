@@ -1,4 +1,4 @@
-# Evaluation-of-a-robotic-system-in-secondary-school-material
+# Material used for "Evaluation of a robotic system in secondary school"
 
 The EdPy Lesson Plans Set by Brenton O’Brien, Kat Kennewell and Dr Sarah Boyd is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License, https://creativecommons.org/licenses/by-sa/4.0/
 
